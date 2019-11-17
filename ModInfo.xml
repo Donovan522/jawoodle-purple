@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+  <ModInfo>
+    <Name value="JaWoodle Purple" />
+    <Description value="Changes selected colors to use JaWoodle Purple" />
+    <Author value="Donovan Young" />
+    <Version value="18.1.1.0" compat="A18" />
+  </ModInfo>
+</xml>
